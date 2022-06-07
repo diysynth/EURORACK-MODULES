@@ -9,5 +9,5 @@ Gerber files and schematics of various EURORACK MODULES
 # License and additional Notes
 Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2022)
 
-I can not give any warranties whatsoever and also can't be held responsible for any damages. You build this circuit at your own risk. If you can't verify that this circuit is safe to use in your modular enviroment then please do not use it! If not stated otherwise I tested the basic functions of the circuits but I can't guarantee that they are bugfree. Please create a pull request if there is something wrong with one of the circuits.
+I can not give any warranties whatsoever and also can't be held responsible for any damages. You build this circuit at your own risk. If you can't verify that this circuit is safe to use in your modular enviroment then please do not use it! If not stated otherwise I tested the basic functions of the circuits but I can't guarantee that they are bug-free. Please create a pull request if there is something wrong with one of the circuits.
 
