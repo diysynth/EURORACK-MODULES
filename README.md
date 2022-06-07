@@ -11,4 +11,4 @@ Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2022)
 
 I can not give any warranties whatsoever and also can't be held responsible for any damages. 
 You build this circuit at your own risk. 
-If you can't verify that this circuit is safe to use in your modular enviroment then please do not use it!
+If you can't verify that this circuit is safe to use or works as expected in your modular enviroment then please do not use it!
