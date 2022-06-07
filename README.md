@@ -6,7 +6,7 @@ Gerber files and schematics of various EURORACK MODULES
 - **DUAL VCA** (using a LM13700 OTA)
 - **LOOPING ATTACK/RELEASE ENVELOPE GENERATOR**
 
-# License and Notes
+# License and additional Notes
 Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2022)
 
 I can not give any warranties whatsoever and also can't be held responsible for any damages. 
