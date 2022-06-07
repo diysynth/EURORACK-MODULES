@@ -1,4 +1,4 @@
-**Looping Attack/Release Envelope Generator**
+# Looping Attack/Release Envelope Generator
 
 * 6HP
 * Switches for looping mode and time/range 
@@ -9,6 +9,6 @@
 
 ![example build](https://github.com/diysynth/EURORACK-MODULES/blob/main/LOOPING%20A-R/ar-example.jpg)
 
-Schematics:
+## Schematics:
 
 ![schematics](https://github.com/diysynth/EURORACK-MODULES/blob/main/LOOPING%20A-R/loop-ar-schematic.png?raw=true)
