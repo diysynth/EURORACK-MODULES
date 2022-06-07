@@ -4,6 +4,7 @@
 * Switches for looping mode and time/range 
 * Output CV: 0-10V (envelope mode); ~1-9V (looping mode)
 * Manual trigger push button
+* Only through-hole parts
 
 *For more information see: https://www.modwiggler.com/forum/viewtopic.php?t=262747*
 
