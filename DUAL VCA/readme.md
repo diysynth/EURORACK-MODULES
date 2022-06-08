@@ -10,7 +10,7 @@ I guess you could use PJ-324 jacks instead of the more expensive Lumberg ones bu
 
 *For more information see: https://www.modwiggler.com/forum/viewtopic.php?t=262747*
 
-![example build]()
+![example build](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/DUAL%20VCA/Dualvca.jpg)
 
 ## Schematics:
 
