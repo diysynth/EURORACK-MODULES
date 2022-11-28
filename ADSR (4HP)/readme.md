@@ -6,6 +6,6 @@
 * Only through-hole parts
 * Depth: ~40mm
 
-![example build](https://github.com/diysynth/EURORACK-MODULES/blob/main/ADSR%20(4HP)/ADSR3.jpg)
-
 ![example build](https://github.com/diysynth/EURORACK-MODULES/blob/main/ADSR%20(4HP)/ADSR1.jpg)
+
+![example build](https://github.com/diysynth/EURORACK-MODULES/blob/main/ADSR%20(4HP)/ADSR2.jpg)
