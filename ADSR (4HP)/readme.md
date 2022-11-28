@@ -1,3 +1,5 @@
+# Simple ADSR
+
 * 4HP
 * Maximum output voltage ~0-10V (with a bit attack it's around 0-8V)
 * Based on the ADSR from YUSYNTH/Jonathan Jacky
@@ -9,3 +11,7 @@
 ![example build](https://github.com/diysynth/EURORACK-MODULES/blob/main/ADSR%20(4HP)/ADSR1.jpg)
 
 ![example build](https://github.com/diysynth/EURORACK-MODULES/blob/main/ADSR%20(4HP)/ADSR2.jpg)
+
+## Schematics
+
+![schematics](https://github.com/diysynth/EURORACK-MODULES/blob/main/ADSR%20(4HP)/ADSR_schematic.png)
