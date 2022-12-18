@@ -7,3 +7,5 @@ After breaking the panel into single pcbs you can use sandpaper to get rid of th
 ![example build](https://github.com/diysynth/EURORACK-MODULES/blob/main/0HP%20STUFF/0HP%20MULTIPLE/0hpMulti1.jpg)
 
 ![example build](https://github.com/diysynth/EURORACK-MODULES/blob/main/0HP%20STUFF/0HP%20MULTIPLE/0hpMulti2.jpg)
+
+![render](https://github.com/diysynth/EURORACK-MODULES/blob/main/0HP%20STUFF/0HP%20MULTIPLE/multiPanel.png)
