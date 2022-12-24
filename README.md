@@ -3,9 +3,10 @@
 Gerber files and schematics of various EURORACK MODULES
 
 # List of Modules (so far)
+- **3340 VCO** (4HP)
+- **ADSR ENVELOPE GENERATOR** (4HP, using 555 timer ic)
 - **DUAL VCA** (3HP, using a LM13700 OTA)
 - **LOOPING ATTACK/RELEASE ENVELOPE GENERATOR** (6HP)
-- **ADSR ENVELOPE GENERATOR** (4HP, using 555 timer ic)
 
 # License and additional Notes
 Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2022)
