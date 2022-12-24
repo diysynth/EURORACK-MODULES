@@ -15,7 +15,8 @@ but considering this VCOs relatively low part-count it works fine.
 
 ![VCO](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/VCO3340_1.jpg)
 ![VCO](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/VCO3340_2.jpg)
+![Render](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/3340_VCO_PanelPcb.png)
 
 ## Schematics
 
-![VCO](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/3340_VCO_schematic.png)
+![Schematics](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/3340_VCO_schematic.png)
