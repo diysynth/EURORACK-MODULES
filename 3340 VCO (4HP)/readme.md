@@ -7,6 +7,7 @@
 * Pulse width can be controlled with a pot (≈10-55%) or cv
 * (Hard-)Sync input 'resets' the triangle core - works best (or only) with pulse or square waves from a master vco (sawtooth waves might work too)
 * There are two trimmers - one to adjust the scale (to v/oct scale) and a high frequency trimmer for adjusting scale errors over 5kHz
+* 4HP (quite slim but also a bit cramped!)
 * Only through-hole parts
 * Depth: ≈46mm
 
