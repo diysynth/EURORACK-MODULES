@@ -12,3 +12,10 @@
 
 This VCO is not perfect but works quite well and has good pitch-tracking capabilities. The sync and PWM inputs can be a bit 'quirky' depending on the input signals -
 but considering this VCOs relatively low part-count it works fine.
+
+![VCO](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/VCO3340_1.jpg)
+![VCO](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/VCO3340_2.jpg)
+
+## Schematics
+
+![VCO](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/3340_VCO_schematic.png)
