@@ -1,6 +1,6 @@
 # 3340 VCO (VCO1)
 * Simple v/oct VCO based on the legendary CEM3340 (AS3340) ic
-* Ac-coupled Saw and pulse wave outputs
+* Ac-coupled saw and pulse wave outputs
 * Output signals deliver a peak-to-peak voltage of around 8V (Pulse might be a bit less)
 * The effective frequency range goes from a bit under 15Hz up to 20kHz or more
 * There is a coarse pot for setting the frequency in the just mentioned range and a fine pot for tuning within the range of few semitones
