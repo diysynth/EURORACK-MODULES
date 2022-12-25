@@ -1,6 +1,6 @@
 # EURORACK-MODULES
 
-Gerber files and schematics of various EURORACK MODULES. For more information visit www.modwiggler.com/forum/viewtopic.php?t=262747
+Gerber files and schematics of various modules. For more information visit www.modwiggler.com/forum/viewtopic.php?t=262747
 
 # List of Modules (so far)
 - **3340 VCO** (4HP)
