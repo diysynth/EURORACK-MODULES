@@ -1,4 +1,7 @@
 # 3340 VCO (VCO1)
+
+** _ I JUST REALISED THAT THIS VCO DESIGN STILL HAS SOME FLAWS. SOME RESISTOR VALUES NEEDS TO BE CHANGED AND ALSO I AM STILL NOT SATISFIED WITH THE SYNC FUNCTION. I WILL UPLOAD A REVISION OF THIS DESIGN HERE LATE SUMMER OR SO _  **
+
 * Simple v/oct VCO based on the legendary CEM3340 (AS3340) ic
 * Ac-coupled saw and pulse wave outputs
 * Output signals deliver a peak-to-peak voltage of around 8V (Pulse might be a bit less)
