@@ -5,7 +5,7 @@
 * Voltage controlled lowpass filter based on the CEM3320/AS3320
 * VCF output buffer and resonance path close to the PRO-ONE design 
 * Good sounding 24db per octave
-* Able to selfoscillate
+* Able to self oscillate 
 * Pitchtracking works alright over a few octaves
 * Two CV inputs (CV2 is connected to an attenuator pot)
 * Signal input attenuator 
