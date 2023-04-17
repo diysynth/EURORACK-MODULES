@@ -13,7 +13,7 @@
 * Only through-hole parts
 * Depth: ≈47mm
 
-Overall a pretty decent VCF module. I tested it quite some time and didn't run into any problems. The 150pf for the filter caps is just a recommendation. You can try different values up to 300pf. The OBxa used 300pf caps for example.
+Overall a pretty decent VCF module. I tested it quite some time and didn't run into any problems. The 150pf for the filter caps is just a recommendation. You can try different values up to 300pf or even a bit higher. The OBxa used 300pf caps for example.
 
 ![VCF](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/3320%20VCF%20(6HP)/vcf1.jpg)
 ![VCF](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/3320%20VCF%20(6HP)/vcf3.jpg)
