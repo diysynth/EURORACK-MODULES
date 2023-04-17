@@ -14,10 +14,10 @@
 
 Overall a pretty decent VCF module. I tested it quite some time and didn't run into any problems. It sounds good :)
 
-![VCF]()
-![VCF]()
-![VCF]()
+![VCF](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/3320%20VCF%20(6HP)/vcf1.jpg)
+![VCF](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/3320%20VCF%20(6HP)/vcf3.jpg)
+![VCF](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/3320%20VCF%20(6HP)/vcf2.jpg)
 
 ## Schematics
 
-![Schematics]()
+![Schematics](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/3320%20VCF%20(6HP)/3320VCFschematic.png)
