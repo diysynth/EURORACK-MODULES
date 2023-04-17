@@ -7,7 +7,8 @@
 * Good sounding 24db per octave
 * Able to self oscillate 
 * Pitchtracking works alright over a few octaves
-* Two CV inputs (CV2 is connected to an attenuator pot)
+* Two cutoff CV inputs (CV2 is connected to an attenuator pot)
+* Resonance with CV input and attenuator
 * Signal input attenuator 
 * Only through-hole parts
 * Depth: ≈47mm
