@@ -3,6 +3,7 @@
 Gerber files and schematics of various modules. For more information visit www.modwiggler.com/forum/viewtopic.php?t=262747
 
 # List of Modules (so far)
+- **3320 VCF** (6HP)
 - **3340 VCO** (4HP)
 - **ADSR ENVELOPE GENERATOR** (4HP, using 555 timer ic)
 - **DUAL VCA** (3HP, using a LM13700 OTA)
