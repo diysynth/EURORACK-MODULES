@@ -8,6 +8,7 @@ Gerber files and schematics of various modules. For more information visit www.m
 - **ADSR ENVELOPE GENERATOR** (4HP, using 555 timer ic)
 - **DUAL VCA** (3HP, using a LM13700 OTA)
 - **LOOPING ATTACK/RELEASE ENVELOPE GENERATOR** (6HP)
+- **PASSIVE LOW PASS GATE** (2HP)
 
 # License and additional Notes
 Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2023)
