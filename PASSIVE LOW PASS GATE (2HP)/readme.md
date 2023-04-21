@@ -17,8 +17,8 @@ You will need the following components:
 * Standard toggle switch
 * Diy vactrol
 
-![LPG](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/VCO3340_1.jpg)
-![LPG](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/VCO3340_1.jpg)
+![LPG](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/PASSIVE%20LOW%20PASS%20GATE%20(2HP)/lpg1.jpg)
+![LPG](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/PASSIVE%20LOW%20PASS%20GATE%20(2HP)/lpg2.jpg)
 
 ## Schematics
 
