@@ -1,7 +1,5 @@
 # 3320 VCF (6HP)
 
-**_Will upload the gerber files in the next couple days!_**
-
 * Voltage controlled lowpass filter based on the CEM3320/AS3320
 * VCF output buffer and resonance path close to the PRO-ONE design 
 * Good sounding 24db per octave
