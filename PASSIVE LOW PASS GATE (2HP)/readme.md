@@ -7,7 +7,7 @@
 * Only through-hole parts
 * Depth: ≈13mm
 
-Try different values for C2/C3 (maybe in the range from 4.7nF up to 47nF) and leave C1 empty to have a VCA-mode in the middle position of the switch. 
+Try different values for C2/C3 (maybe in the range from 4.7nF up to 47nF) and leave C1 empty to have a VCA-mode at the middle position of the switch. 
 
 You will need the following components:
 
