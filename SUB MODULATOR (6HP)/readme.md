@@ -9,7 +9,7 @@
 * Only through-hole parts
 * Depth: ≈22mm (with box header)
 
-I really like this module! The XOR output generates very interesting waveforms and the ability to play perfect fifths (between -1 and -2 octaves) is a not very common but very lovely feature. It is great for producing sound with a massive low end. Use a mixer to mix the outputs of the SUB MODULATOR with the input signal.
+I really like this module! The XOR output generates very interesting waveforms and the ability to play perfect fifths (between -1 and -2 octaves) is a not very common but very lovely feature. It is great for producing sound with a massive low end. Use a mixer to mix the outputs of the SUB MODULATOR together with the input signal.
 
 ![SUBMOD](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/SUB%20MODULATOR%20(6HP)/submod1.jpg)
 ![SUBMOD](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/SUB%20MODULATOR%20(6HP)/submod2.jpg)
