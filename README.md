@@ -9,6 +9,7 @@ Gerber files and schematics of various modules. For more information visit www.m
 - **DUAL VCA** (3HP, using a LM13700 OTA)
 - **LOOPING ATTACK/RELEASE ENVELOPE GENERATOR** (6HP)
 - **PASSIVE LOW PASS GATE** (2HP)
+- **SUB MODULATOR** (6HP, advanced sub-oscillator)
 
 # License and additional Notes
 Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2023)
