@@ -11,6 +11,8 @@ Gerber files and schematics of various modules. For more information visit www.m
 - **PASSIVE LOW PASS GATE** (2HP)
 - **SUB MODULATOR** (6HP, advanced sub-oscillator)
 
+![Modular](https://github.com/diysynth/EURORACK-MODULES/blob/main/3340%20VCO%20(4HP)/VCO3340_1.jpg)
+
 # License and additional Notes
 Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2023)
 
