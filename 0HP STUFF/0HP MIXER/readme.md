@@ -4,4 +4,4 @@ Simple passive mixer for audio signals and CV. You will need 1503-09/PJ-324 jack
 
 ![0HP-MIXER](https://github.com/diysynth/EURORACK-MODULES/blob/main/0HP%20STUFF/0HP%20MIXER/0hpMixer.jpg)
 
-![0HP-MIXER](https://github.com/diysynth/EURORACK-MODULES/blob/main/0HP%20STUFF/0HP%20MIXER/0hpMixer.jpg)
+![0HP-MIXER](https://github.com/diysynth/EURORACK-MODULES/blob/main/0HP%20STUFF/0HP%20MIXER/0HPMix_Render.jpg)
