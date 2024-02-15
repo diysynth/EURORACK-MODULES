@@ -5,8 +5,8 @@
 * Only through-hole parts
 * Depth: ≈19mm
 
-![MULTI]()
-![MULTI]()
+![MULTI](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/BUFFERED%20MULTIPLE%20(3HP)/Multi1.jpg)
+![MULTI](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/BUFFERED%20MULTIPLE%20(3HP)/Multi2.jpg)
 
 
 ## Schematics
