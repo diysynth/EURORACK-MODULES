@@ -6,6 +6,7 @@ Gerber files and schematics of various modules. For more information visit www.m
 - **3320 VCF** (6HP)
 - **3340 VCO** (4HP)
 - **ADSR ENVELOPE GENERATOR** (4HP, using 555 timer ic)
+- **BUFFERED MULTIPLE** (3HP)
 - **DUAL VCA** (3HP, using a LM13700 OTA)
 - **LOOPING ATTACK/RELEASE ENVELOPE GENERATOR** (6HP)
 - **PASSIVE LOW PASS GATE** (2HP)
