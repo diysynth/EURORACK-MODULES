@@ -11,5 +11,5 @@
 
 ## Schematics
 
-![Schematics]()
+![Schematics](https://raw.githubusercontent.com/diysynth/EURORACK-MODULES/main/BUFFERED%20MULTIPLE%20(3HP)/Schematic_BufferedMulti.png)
 
