@@ -3,7 +3,7 @@
 * Can be used as an envelope generator or as a 'LFO'
 * Cycling/Looping mode is enabled when there is no patch cable plugged into the gate jack
 * Unipolar output
-* Output Voltage envelope mode: ≈0-10V / cycling mode: ≈0.5-8.5V
+* Output voltage envelope mode: ≈0-10V / cycling mode: ≈0.5-8.5V
 * The envelope generator doesn't retrigger while it cycles through the attack phase
 * Range switch for two different speeds
 * Aluminium pcb option for the front panel is recommended
