@@ -8,7 +8,7 @@ Gerber files and schematics of various modules. For more information visit www.m
 - **ADSR ENVELOPE GENERATOR** (4HP, using 555 timer ic)
 - **BUFFERED MULTIPLE** (3HP)
 - **CYCLING ENVELOPE GENERATOR** (4HP)
-- **DUAL VCA** (3HP, using a LM13700 OTA)
+- **DUAL VCA** (3HP, uses a LM13700 OTA)
 - **LOOPING ATTACK/RELEASE ENVELOPE GENERATOR** (6HP)
 - **PASSIVE LOW PASS GATE** (2HP)
 - **SUB MODULATOR** (6HP, advanced sub-oscillator)
