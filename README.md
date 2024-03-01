@@ -5,7 +5,7 @@ Gerber files and schematics of various modules. For more information visit www.m
 # List of Modules (so far)
 - **3320 VCF** (6HP)
 - **3340 VCO** (4HP)
-- **ADSR ENVELOPE GENERATOR** (4HP, using 555 timer ic)
+- **ADSR ENVELOPE GENERATOR** (4HP)
 - **BUFFERED MULTIPLE** (3HP)
 - **CYCLING ENVELOPE GENERATOR** (4HP)
 - **DUAL VCA** (3HP, uses a LM13700 OTA)
