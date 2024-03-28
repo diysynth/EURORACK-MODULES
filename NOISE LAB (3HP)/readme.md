@@ -6,7 +6,7 @@
 * There are four different divider outputs
 * The threshold parameter for the digital noise can be CV controlled (unipolar CV works best)
 * Only through-hole parts
-* Depth: ≈22mm (with box header)
+* Depth: ≈41mm
 
 It is fun and quite versatile module. The CV controlled digital noise can create some nice video game sounds. Experimanting with different sources for the CV can be rewarding. There is a sound sample that showcases the different waveforms.
 
