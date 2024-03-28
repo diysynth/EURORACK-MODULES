@@ -10,6 +10,7 @@ Gerber files and schematics of various modules. For more information visit www.m
 - **CYCLING ENVELOPE GENERATOR** (4HP)
 - **DUAL VCA** (3HP, uses a LM13700 OTA)
 - **LOOPING ATTACK/RELEASE ENVELOPE GENERATOR** (6HP)
+- **NOISE LAB** (3HP)
 - **PASSIVE LOW PASS GATE** (2HP)
 - **SUB MODULATOR** (6HP, advanced sub-oscillator)
 
