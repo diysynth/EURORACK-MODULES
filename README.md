@@ -18,7 +18,7 @@ Gerber files and schematics of various modules. For more information visit www.m
 ![Modular](https://github.com/diysynth/EURORACK-MODULES/blob/main/ModularJazura2.jpg)
 
 # License and additional Notes
-Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2023)
+Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2024)
 
 I can not give any warranties whatsoever and also can't be held responsible for any damages. You build this circuit at your own risk. If you can't verify on your own that those circuits are safe to use in your modular enviroment then please do not use them! If not stated otherwise I tested the basic functions of the circuits but I can't guarantee that they are bug-free. Please create an issue or a pull request if there is something wrong with one of the circuits.
 
