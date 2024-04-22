@@ -5,8 +5,8 @@
 **NEW GERBER FILES HAVE BEEN UPLOADED!**
 
 * Simple v/oct VCO based on the legendary CEM3340 (AS3340) ic
-* Ac-coupled saw and pulse wave outputs
-* Output signals deliver a peak-to-peak voltage of around 8V (Pulse might be a bit less)
+* Saw and pulse wave outputs (Saw-output is AC-coupled)
+* Output signals deliver a peak-to-peak voltage of around 8V 
 * The effective frequency range goes from a bit under 15Hz up to 20kHz or more
 * There is a coarse pot for setting the frequency in the just mentioned range and a fine pot for tuning within the range of few semitones
 * Pulse width can be controlled with a pot (≈10-55%) or cv
