@@ -11,7 +11,7 @@
 * There is a coarse pot for setting the frequency in the just mentioned range and a fine pot for tuning within the range of few semitones
 * Pulse width can be controlled with a pot (≈10-55%) or cv
 * (Hard-)Sync with the possiblity to change the jumper (JP1) for 'positive' or 'negative' sync options 
-* There are two trimmers - one to adjust the scale (to v/oct scale) and a high frequency trimmer for adjusting scale errors over 5kHz
+* There are two trimmers - one to adjust the tracking to v/oct scale and a high frequency trimmer for adjusting scale errors over 5kHz
 * 4HP (quite slim but also a bit cramped!)
 * Only through-hole parts
 * Depth: ≈46mm
