@@ -8,6 +8,7 @@ Gerber files and schematics of various modules. For more information visit www.m
 - **ADSR ENVELOPE GENERATOR** (4HP)
 - **BUFFERED MULTIPLE** (3HP)
 - **CYCLING ENVELOPE GENERATOR** (4HP)
+- **DIGILFO** (6HP, VCLFO)
 - **DUAL VCA** (3HP, uses a LM13700 OTA)
 - **LOOPING ATTACK/RELEASE ENVELOPE GENERATOR** (6HP)
 - **NOISE LAB** (3HP)
