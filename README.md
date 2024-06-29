@@ -18,6 +18,12 @@ Gerber files and schematics of various modules. For more information visit www.m
 ![Modular](https://github.com/diysynth/EURORACK-MODULES/blob/main/ModularJazura1.jpg)
 ![Modular](https://github.com/diysynth/EURORACK-MODULES/blob/main/ModularJazura2.jpg)
 
+# Coming soon(er or later)
+
+- **4046 VCO** (6HP, VCO based on a common CMOS IC)
+- **OFFSET/GAIN UTILITY** (4HP)
+- **PSU** (6HP)
+
 # License and additional Notes
 Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2024)
 
