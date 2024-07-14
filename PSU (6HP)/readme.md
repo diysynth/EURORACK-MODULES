@@ -1,7 +1,7 @@
 # POWER SUPPLY UNIT (6HP)
 
 * Standard AC to bipolar 12V Eurorack PSU
-* Has a ON-OFF switch
+* Has an ON-OFF switch
 * Two indicator LEDs
 * Needs a 12 VAC! wall wart (DC wall warts will not work!)
 * WARNING (HEALTH HAZARD): Only use caps with a voltage rating of AT LEAST 35V!
