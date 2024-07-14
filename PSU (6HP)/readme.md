@@ -4,7 +4,7 @@
 * Has an ON-OFF switch
 * Two indicator LEDs
 * Needs a 12 VAC! wall wart (DC wall warts will not work!)
-* WARNING (HEALTH HAZARD): Only use caps with a voltage rating of AT LEAST 35V!
+* WARNING (HEALTH HAZARD): Only use caps with a voltage rating of **AT LEAST 35V**!
 * Only through-hole parts
 * Depth: Depending on capacitor height (with 4700uF caps: ≈47mm)
 
