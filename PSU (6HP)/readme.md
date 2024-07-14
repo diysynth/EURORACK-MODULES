@@ -6,7 +6,7 @@
 * Needs a 12 VAC! wall wart (DC wall warts will not work!)
 * WARNING (HEALTH HAZARD): Only use caps with a voltage rating of AT LEAST 35V!
 * Only through-hole parts
-* Depth: Depending on capacitor height (with 4700uF cap: ≈47mm)
+* Depth: Depending on capacitor height (with 4700uF caps: ≈47mm)
 
 Additional information: Caps C3 and C6 should have a capacity of at very least 3300uF! Better use a higher value like 4700uF. And again: ONLY 35V CAPS OR HIGHER RATINGS!
 
