@@ -2,8 +2,7 @@
 
 * 
 
-![CYCENV]()
-![CYCENV]()
+![PSU](https://github.com/diysynth/EURORACK-MODULES/blob/main/PSU%20(6HP)/PSU6HP.jpg)
 
 ## Schematics
 
