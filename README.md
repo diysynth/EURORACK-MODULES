@@ -13,6 +13,7 @@ Gerber files and schematics of various modules. For more information visit www.m
 - **LOOPING ATTACK/RELEASE ENVELOPE GENERATOR** (6HP)
 - **NOISE LAB** (3HP)
 - **PASSIVE LOW PASS GATE** (2HP)
+- **POWER SUPPLY UNIT** (6HP)
 - **SUB MODULATOR** (6HP, advanced sub-oscillator)
 
 ![Modular](https://github.com/diysynth/EURORACK-MODULES/blob/main/ModularJazura1.jpg)
