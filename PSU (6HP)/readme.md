@@ -1,4 +1,4 @@
-# POWER SUPPLY UNIT (6HP)
+# POWER SUPPLY UNIT/MODULE (6HP)
 
 * Standard AC to bipolar 12V Eurorack PSU
 * Has an ON-OFF switch
