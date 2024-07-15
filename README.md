@@ -23,7 +23,6 @@ Gerber files and schematics of various modules. For more information visit www.m
 
 - **4046 VCO** (6HP, VCO based on a common CMOS IC)
 - **OFFSET/GAIN UTILITY** (4HP)
-- **PSU** (6HP)
 
 # License and additional Notes
 Hardware designs are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2024)
