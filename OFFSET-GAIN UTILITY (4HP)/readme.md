@@ -1,4 +1,4 @@
-# OFFSET/GAIN UTILITY (4HP
+# OFFSET/GAIN UTILITY (4HP)
 
 * Multifunctional module for CV and audio signals
 * Can be used to amplify, attenuate, invert or offset signals and voltages
