@@ -22,11 +22,10 @@ Gerber files and schematics of various modules. For more information visit www.m
 
 # Coming soon(er or later)
 
-- **4046 VCO** (6HP, VCO based on a common CMOS IC)
-- **OFFSET/GAIN UTILITY** (4HP)
+- **Clock Divider module**
 
 # License and additional Notes
-Hardware designs and schematics are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2024)
+Hardware designs and schematics are licensed under CC-BY-SA-4.0 (Sebastian Jazura - 2022-2025)
 
 I can not give any warranties whatsoever and also can't be held responsible for any damages. You build this circuit at your own risk. If you can't verify on your own that those circuits are safe to use in your modular enviroment then please do not use them! If not stated otherwise I tested the basic functions of the circuits but I can't guarantee that they are bug-free. Please create an issue or a pull request if there is something wrong with one of the circuits.
 
